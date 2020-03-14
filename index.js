@@ -15,4 +15,4 @@ function writeCards( namesArray, event ) {
     console.log(countDown);
   } 
   
-  console.log
+  console.log("hello there")

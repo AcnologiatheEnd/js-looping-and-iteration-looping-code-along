@@ -16,5 +16,4 @@ function writeCards( namesArray, event ) {
   } 
   
   console.log(writeCards(["jessy", "james", "and meow too"], "poke"))
-  console.log(have)
   

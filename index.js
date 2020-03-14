@@ -16,4 +16,4 @@ function writeCards( namesArray, event ) {
   } 
   
   console.log(writeCards(["jessy", "james", "and meow too"], "poke"))
-  console.log(countDown(12))
+  console.log(countDown(-5))
